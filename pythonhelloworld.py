@@ -1,0 +1,1 @@
+print("thambi idhu python la irundhu print agudhu")
